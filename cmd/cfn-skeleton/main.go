@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/aws-cloudformation/rain/format"
+	"github.com/aws-cloudformation/rain/cfn/format"
 	"github.com/awslabs/aws-cloudformation-template-builder/builder"
 
 	//Drop-in replacement for flag that supports POSIX style flags
